@@ -1,19 +1,16 @@
 <resources>
     <string name="app_name">MyViewAndViewGroup</string>
-    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
-    <string name="content_specs_display">5.0 inches\n
-        FHD AMOLED at 441ppi\n
-        2.5D Corning® Gorilla® Glass 4</string>
-    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
-    <string name="content_specs_battery">2,770 mAh battery\n
-        Standby time (LTE): up to 19 days\n
-        Talk time (3g/WCDMA): up to 26 hours\n
-        Internet use time (Wi-Fi): up to 13 hours\n
-        Internet use time (LTE): up to 13 hours\n
-        Video playback: up to 13 hours\n
-        Audio playback (via headset): up to 110 hours\n
-        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
-    <string name="title">Google Pixel</string>
+    <string name="content_text">Apple officially announced its much-anticipated iPhone 16 Pro Max on September 12, 2024. We attended Apple’s launch event, which was broadcast globally from Cupertino, California, where the company unveiled its latest iPhones running iOS 18. These devices are set to carry on Apple’s legacy of high-end smartphones, building on the success of the iPhone 15 series and pushing the boundaries of mobile technology</string>
+    <string name="content_specs_display">6.9 inches
+        \nSuper Retina XDR OLED at 460ppi
+        \nCeramic Shield front cover</string>
+    <string name="content_specs_size">6.3 x 3.1 x 0.5 inches ~ 160.7 x 77.6 x 8.25 mm</string>
+    <string name="content_specs_battery">4,685 mAh battery
+        \nVideo playback: up to 33 hours
+        \nVideo playback (streamed): up to 29 hours
+        \nAudio playback: up to 105 hours
+        \nFast charging: up to 50% charge in 30 minutes with a 20W adapter or higher</string>
+    <string name="title">Iphone 16 Pro Max</string>
     <string name="specification">Spesifikasi</string>
     <string name="display">Display</string>
     <string name="size">Size</string>
@@ -21,6 +18,6 @@
     <string name="seller">Dijual oleh</string>
     <string name="my_name">Dudul</string>
     <string name="buy">Beli</string>
-    <string name="dummy_value">$735</string>
-    <string name="dummy_photos">6 photos</string>
+    <string name="dummy_value">Rp 20.266.499</string>
+    <string name="dummy_photos">69 photos</string>
 </resources>
